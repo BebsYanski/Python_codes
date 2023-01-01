@@ -16,6 +16,7 @@ def but_add():
 	global sign
 	sign= "+"
 	first_number=screen.get()
+	print(first_number)
 	global first_n 
 	first_n= int(first_number)
 	screen.delete(0, END)
