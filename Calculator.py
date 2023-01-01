@@ -1,7 +1,7 @@
 from tkinter import *
 root = Tk()
 root.title("My Calculator")
-#root.iconbitmap("C:\icon\Chemonics-International.ico")
+root.iconbitmap('C:\\Users\\dell\\Documents\\Python_codes\\icons\\4.ico')
 
 
 #head=Label(root,text="My Calculator").grid()
